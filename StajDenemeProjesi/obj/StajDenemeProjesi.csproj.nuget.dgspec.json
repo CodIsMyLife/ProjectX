@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ablamsagolsun/Projects/StajDenemeProjesi/StajDenemeProjesi/StajDenemeProjesi.csproj": {}
+    "C:\\Users\\niluf\\Desktop\\Staj_DZD\\ProjectX\\StajDenemeProjesi\\StajDenemeProjesi.csproj": {}
   },
   "projects": {
-    "/Users/ablamsagolsun/Projects/StajDenemeProjesi/StajDenemeProjesi/StajDenemeProjesi.csproj": {
+    "C:\\Users\\niluf\\Desktop\\Staj_DZD\\ProjectX\\StajDenemeProjesi\\StajDenemeProjesi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ablamsagolsun/Projects/StajDenemeProjesi/StajDenemeProjesi/StajDenemeProjesi.csproj",
+        "projectUniqueName": "C:\\Users\\niluf\\Desktop\\Staj_DZD\\ProjectX\\StajDenemeProjesi\\StajDenemeProjesi.csproj",
         "projectName": "StajDenemeProjesi",
-        "projectPath": "/Users/ablamsagolsun/Projects/StajDenemeProjesi/StajDenemeProjesi/StajDenemeProjesi.csproj",
-        "packagesPath": "/Users/ablamsagolsun/.nuget/packages/",
-        "outputPath": "/Users/ablamsagolsun/Projects/StajDenemeProjesi/StajDenemeProjesi/obj/",
+        "projectPath": "C:\\Users\\niluf\\Desktop\\Staj_DZD\\ProjectX\\StajDenemeProjesi\\StajDenemeProjesi.csproj",
+        "packagesPath": "C:\\Users\\niluf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niluf\\Desktop\\Staj_DZD\\ProjectX\\StajDenemeProjesi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ablamsagolsun/.config/NuGet/NuGet.Config"
+          "C:\\Users\\niluf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
